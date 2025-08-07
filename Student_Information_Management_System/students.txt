@@ -1,0 +1,4 @@
+[ID=1, Name=John, Email=John@testmail.com, DOB=2006-04-01, Phone=9426634425, Courses=[None]]
+[ID=2, Name=Muhsin A, Email=muhsin@gmail.com, DOB=2005-04-01, Phone=2343343423, Courses=[Mathematics[Grade = A, Marks = 80]]]
+[ID=3, Name=Raju, Email=raju@ictmail.com, DOB=2005-04-23, Phone=8462289394, Courses=[Java Programming[Grade = C, Marks = 50]]]
+[ID=4, Name=Crispin, Email=crispin@hotmail.com, DOB=2005-03-23, Phone=3433452343, Courses=[None]]
